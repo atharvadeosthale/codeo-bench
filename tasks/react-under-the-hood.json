@@ -1,0 +1,10 @@
+{
+  "id": "react-under-the-hood",
+  "title": "React Under the Hood",
+  "prompt": "I want you to create a video that shows how does React work under the hood. This should be an intensive animating video that visually explains learner about the inner workings of React. Make sure you make the best video you can.",
+  "composition": "HelloWorld",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 150
+}

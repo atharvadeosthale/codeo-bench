@@ -1,0 +1,18 @@
+{
+  "model": {
+    "id": "claude-fable-5",
+    "name": "Claude Fable 5"
+  },
+  "task": {
+    "id": "codeo-trailer",
+    "title": "Codeo Trailer"
+  },
+  "template": "with-skills",
+  "composition": "HelloWorld",
+  "benchmarkVersion": "v1",
+  "date": "2026-06-11",
+  "prompt": "You are in a project called CodeoBench: the Remotion benchmark. I want you to create a trailer for the website. It is located in ../../../. Make sure you highly animate the trailer but not add typical AI-generated animations. This is a real trailer, and I want your best work on it.",
+  "status": "published",
+  "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/claude-fable-5/codeo-trailer--with-skills/video.mp4",
+  "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/claude-fable-5/codeo-trailer--with-skills/poster.jpeg"
+}

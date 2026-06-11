@@ -1,0 +1,10 @@
+{
+  "id": "codeo-trailer",
+  "title": "Codeo Trailer",
+  "prompt": "You are in a project called CodeoBench: the Remotion benchmark. I want you to create a trailer for the website. It is located in ../../../. Make sure you highly animate the trailer but not add typical AI-generated animations. This is a real trailer, and I want your best work on it.",
+  "composition": "HelloWorld",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 150
+}

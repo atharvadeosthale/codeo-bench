@@ -1,0 +1,16 @@
+import "./index.css";
+import { Composition } from "remotion";
+import { Main, TOTAL_DURATION } from "./video/Main";
+
+export const RemotionRoot: React.FC = () => {
+  return (
+    <Composition
+      id="ReactUnderTheHood"
+      component={Main}
+      durationInFrames={TOTAL_DURATION}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+  );
+};

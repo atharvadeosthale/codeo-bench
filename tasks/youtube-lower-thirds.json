@@ -1,0 +1,10 @@
+{
+  "id": "youtube-lower-thirds",
+  "title": "YouTube Lower Thirds",
+  "prompt": "Make a video showcasing different YouTube lower third components. You have to build the components yourself. Make sure these components are absolutely stunning, and the video presentation equally matters, treat this as a trailer.",
+  "composition": "HelloWorld",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 150
+}
