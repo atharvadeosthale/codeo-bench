@@ -1,5 +1,5 @@
 {
   "currentVersion": "v1",
   "remotionVersion": "4.0.475",
-  "homepageOrder": []
+  "homepageOrder": ["claude-fable-5", "opus-4-8", "gpt-5.5"]
 }

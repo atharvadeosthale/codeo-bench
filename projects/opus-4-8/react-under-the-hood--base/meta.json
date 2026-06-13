@@ -1,0 +1,18 @@
+{
+  "model": {
+    "id": "opus-4-8",
+    "name": "Opus 4.8"
+  },
+  "task": {
+    "id": "react-under-the-hood",
+    "title": "React Under the Hood"
+  },
+  "template": "base",
+  "composition": "HelloWorld",
+  "benchmarkVersion": "v1",
+  "date": "2026-06-13",
+  "prompt": "I want you to create a video that shows how does React work under the hood. This should be an intensive animating video that visually explains learner about the inner workings of React. Make sure you make the best video you can.",
+  "status": "published",
+  "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/react-under-the-hood--base/video.mp4",
+  "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/react-under-the-hood--base/poster.jpeg"
+}

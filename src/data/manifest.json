@@ -123,6 +123,126 @@
       "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/claude-fable-5/youtube-lower-thirds--with-skills/poster.jpeg"
     },
     {
+      "id": "opus-4-8/codeo-trailer--base",
+      "slug": "codeo-trailer--base",
+      "model": {
+        "id": "opus-4-8",
+        "name": "Opus 4.8"
+      },
+      "task": {
+        "id": "codeo-trailer",
+        "title": "Codeo Trailer"
+      },
+      "template": "base",
+      "composition": "HelloWorld",
+      "benchmarkVersion": "v1",
+      "date": "2026-06-13",
+      "prompt": "You are in a project called CodeoBench: the Remotion benchmark. I want you to create a trailer for the website. It is located in ../../../. Make sure you highly animate the trailer but not add typical AI-generated animations. This is a real trailer, and I want your best work on it.",
+      "status": "published",
+      "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/codeo-trailer--base/video.mp4",
+      "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/codeo-trailer--base/poster.jpeg"
+    },
+    {
+      "id": "opus-4-8/codeo-trailer--with-skills",
+      "slug": "codeo-trailer--with-skills",
+      "model": {
+        "id": "opus-4-8",
+        "name": "Opus 4.8"
+      },
+      "task": {
+        "id": "codeo-trailer",
+        "title": "Codeo Trailer"
+      },
+      "template": "with-skills",
+      "composition": "HelloWorld",
+      "benchmarkVersion": "v1",
+      "date": "2026-06-13",
+      "prompt": "You are in a project called CodeoBench: the Remotion benchmark. I want you to create a trailer for the website. It is located in ../../../. Make sure you highly animate the trailer but not add typical AI-generated animations. This is a real trailer, and I want your best work on it.",
+      "status": "published",
+      "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/codeo-trailer--with-skills/video.mp4",
+      "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/codeo-trailer--with-skills/poster.jpeg"
+    },
+    {
+      "id": "opus-4-8/react-under-the-hood--base",
+      "slug": "react-under-the-hood--base",
+      "model": {
+        "id": "opus-4-8",
+        "name": "Opus 4.8"
+      },
+      "task": {
+        "id": "react-under-the-hood",
+        "title": "React Under the Hood"
+      },
+      "template": "base",
+      "composition": "HelloWorld",
+      "benchmarkVersion": "v1",
+      "date": "2026-06-13",
+      "prompt": "I want you to create a video that shows how does React work under the hood. This should be an intensive animating video that visually explains learner about the inner workings of React. Make sure you make the best video you can.",
+      "status": "published",
+      "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/react-under-the-hood--base/video.mp4",
+      "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/react-under-the-hood--base/poster.jpeg"
+    },
+    {
+      "id": "opus-4-8/react-under-the-hood--with-skills",
+      "slug": "react-under-the-hood--with-skills",
+      "model": {
+        "id": "opus-4-8",
+        "name": "Opus 4.8"
+      },
+      "task": {
+        "id": "react-under-the-hood",
+        "title": "React Under the Hood"
+      },
+      "template": "with-skills",
+      "composition": "HelloWorld",
+      "benchmarkVersion": "v1",
+      "date": "2026-06-13",
+      "prompt": "I want you to create a video that shows how does React work under the hood. This should be an intensive animating video that visually explains learner about the inner workings of React. Make sure you make the best video you can.",
+      "status": "published",
+      "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/react-under-the-hood--with-skills/video.mp4",
+      "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/react-under-the-hood--with-skills/poster.jpeg"
+    },
+    {
+      "id": "opus-4-8/youtube-lower-thirds--base",
+      "slug": "youtube-lower-thirds--base",
+      "model": {
+        "id": "opus-4-8",
+        "name": "Opus 4.8"
+      },
+      "task": {
+        "id": "youtube-lower-thirds",
+        "title": "YouTube Lower Thirds"
+      },
+      "template": "base",
+      "composition": "HelloWorld",
+      "benchmarkVersion": "v1",
+      "date": "2026-06-13",
+      "prompt": "Make a video showcasing different YouTube lower third components. You have to build the components yourself. Make sure these components are absolutely stunning, and the video presentation equally matters, treat this as a trailer.",
+      "status": "published",
+      "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/youtube-lower-thirds--base/video.mp4",
+      "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/youtube-lower-thirds--base/poster.jpeg"
+    },
+    {
+      "id": "opus-4-8/youtube-lower-thirds--with-skills",
+      "slug": "youtube-lower-thirds--with-skills",
+      "model": {
+        "id": "opus-4-8",
+        "name": "Opus 4.8"
+      },
+      "task": {
+        "id": "youtube-lower-thirds",
+        "title": "YouTube Lower Thirds"
+      },
+      "template": "with-skills",
+      "composition": "HelloWorld",
+      "benchmarkVersion": "v1",
+      "date": "2026-06-13",
+      "prompt": "Make a video showcasing different YouTube lower third components. You have to build the components yourself. Make sure these components are absolutely stunning, and the video presentation equally matters, treat this as a trailer.",
+      "status": "published",
+      "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/youtube-lower-thirds--with-skills/video.mp4",
+      "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/youtube-lower-thirds--with-skills/poster.jpeg"
+    },
+    {
       "id": "gpt-5.5/codeo-trailer--base",
       "slug": "codeo-trailer--base",
       "model": {

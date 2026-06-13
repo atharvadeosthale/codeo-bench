@@ -1,0 +1,18 @@
+{
+  "model": {
+    "id": "opus-4-8",
+    "name": "Opus 4.8"
+  },
+  "task": {
+    "id": "youtube-lower-thirds",
+    "title": "YouTube Lower Thirds"
+  },
+  "template": "with-skills",
+  "composition": "HelloWorld",
+  "benchmarkVersion": "v1",
+  "date": "2026-06-13",
+  "prompt": "Make a video showcasing different YouTube lower third components. You have to build the components yourself. Make sure these components are absolutely stunning, and the video presentation equally matters, treat this as a trailer.",
+  "status": "published",
+  "video": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/youtube-lower-thirds--with-skills/video.mp4",
+  "poster": "https://pub-441b3999e27941998ef4710046030850.r2.dev/v1/opus-4-8/youtube-lower-thirds--with-skills/poster.jpeg"
+}

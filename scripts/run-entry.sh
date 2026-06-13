@@ -25,5 +25,15 @@ console.log(
 );
 ' "$DIR" "$ROOT")"
 
+MODEL="${CLAUDE_MODEL:-}"
 cd "$DIR"
-exec claude --dangerously-skip-permissions "$PROMPT"
+if [ -n "$MODEL" ]; then
+  claude --dangerously-skip-permissions --model "$MODEL" "$PROMPT" || true
+else
+  claude --dangerously-skip-permissions "$PROMPT" || true
+fi
+
+echo
+echo "── claude session ended, publishing ─────────────────"
+cd "$ROOT"
+pnpm publish-video "$ENTRY"

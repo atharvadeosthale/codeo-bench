@@ -104,13 +104,13 @@ importers:
     dependencies:
       '@remotion/cli':
         specifier: 4.0.475
-        version: 4.0.475(postcss@8.5.15)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@remotion/google-fonts':
         specifier: 4.0.475
         version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@remotion/tailwind-v4':
         specifier: 4.0.475
-        version: 4.0.475(@remotion/bundler@4.0.475(postcss@8.5.15)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0)(postcss@8.5.15))
+        version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
       '@remotion/zod-types':
         specifier: 4.0.475
         version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
@@ -635,6 +635,297 @@ importers:
       '@remotion/tailwind-v4':
         specifier: 4.0.475
         version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
+      '@remotion/zod-types':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      react-dom:
+        specifier: 19.2.3
+        version: 19.2.3(react@19.2.3)
+      remotion:
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      tailwindcss:
+        specifier: 4.0.0
+        version: 4.0.0
+      zod:
+        specifier: 4.3.6
+        version: 4.3.6
+    devDependencies:
+      '@remotion/eslint-config-flat':
+        specifier: 4.0.475
+        version: 4.0.475(eslint@9.19.0(jiti@2.7.0))(typescript@5.9.3)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      '@types/web':
+        specifier: 0.0.166
+        version: 0.0.166
+      eslint:
+        specifier: 9.19.0
+        version: 9.19.0(jiti@2.7.0)
+      prettier:
+        specifier: 3.8.1
+        version: 3.8.1
+      typescript:
+        specifier: 5.9.3
+        version: 5.9.3
+
+  projects/opus-4-8/codeo-trailer--base:
+    dependencies:
+      '@remotion/cli':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/google-fonts':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/tailwind-v4':
+        specifier: 4.0.475
+        version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
+      '@remotion/zod-types':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      react-dom:
+        specifier: 19.2.3
+        version: 19.2.3(react@19.2.3)
+      remotion:
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      tailwindcss:
+        specifier: 4.0.0
+        version: 4.0.0
+      zod:
+        specifier: 4.3.6
+        version: 4.3.6
+    devDependencies:
+      '@remotion/eslint-config-flat':
+        specifier: 4.0.475
+        version: 4.0.475(eslint@9.19.0(jiti@2.7.0))(typescript@5.9.3)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      '@types/web':
+        specifier: 0.0.166
+        version: 0.0.166
+      eslint:
+        specifier: 9.19.0
+        version: 9.19.0(jiti@2.7.0)
+      prettier:
+        specifier: 3.8.1
+        version: 3.8.1
+      typescript:
+        specifier: 5.9.3
+        version: 5.9.3
+
+  projects/opus-4-8/codeo-trailer--with-skills:
+    dependencies:
+      '@remotion/cli':
+        specifier: 4.0.475
+        version: 4.0.475(postcss@8.5.15)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/google-fonts':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/tailwind-v4':
+        specifier: 4.0.475
+        version: 4.0.475(@remotion/bundler@4.0.475(postcss@8.5.15)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0)(postcss@8.5.15))
+      '@remotion/zod-types':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      react-dom:
+        specifier: 19.2.3
+        version: 19.2.3(react@19.2.3)
+      remotion:
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      tailwindcss:
+        specifier: 4.0.0
+        version: 4.0.0
+      zod:
+        specifier: 4.3.6
+        version: 4.3.6
+    devDependencies:
+      '@remotion/eslint-config-flat':
+        specifier: 4.0.475
+        version: 4.0.475(eslint@9.19.0(jiti@2.7.0))(typescript@5.9.3)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      '@types/web':
+        specifier: 0.0.166
+        version: 0.0.166
+      eslint:
+        specifier: 9.19.0
+        version: 9.19.0(jiti@2.7.0)
+      prettier:
+        specifier: 3.8.1
+        version: 3.8.1
+      typescript:
+        specifier: 5.9.3
+        version: 5.9.3
+
+  projects/opus-4-8/react-under-the-hood--base:
+    dependencies:
+      '@remotion/cli':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/tailwind-v4':
+        specifier: 4.0.475
+        version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
+      '@remotion/zod-types':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      react-dom:
+        specifier: 19.2.3
+        version: 19.2.3(react@19.2.3)
+      remotion:
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      tailwindcss:
+        specifier: 4.0.0
+        version: 4.0.0
+      zod:
+        specifier: 4.3.6
+        version: 4.3.6
+    devDependencies:
+      '@remotion/eslint-config-flat':
+        specifier: 4.0.475
+        version: 4.0.475(eslint@9.19.0(jiti@2.7.0))(typescript@5.9.3)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      '@types/web':
+        specifier: 0.0.166
+        version: 0.0.166
+      eslint:
+        specifier: 9.19.0
+        version: 9.19.0(jiti@2.7.0)
+      prettier:
+        specifier: 3.8.1
+        version: 3.8.1
+      typescript:
+        specifier: 5.9.3
+        version: 5.9.3
+
+  projects/opus-4-8/react-under-the-hood--with-skills:
+    dependencies:
+      '@remotion/cli':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/tailwind-v4':
+        specifier: 4.0.475
+        version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
+      '@remotion/transitions':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/zod-types':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      react-dom:
+        specifier: 19.2.3
+        version: 19.2.3(react@19.2.3)
+      remotion:
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      tailwindcss:
+        specifier: 4.0.0
+        version: 4.0.0
+      zod:
+        specifier: 4.3.6
+        version: 4.3.6
+    devDependencies:
+      '@remotion/eslint-config-flat':
+        specifier: 4.0.475
+        version: 4.0.475(eslint@9.19.0(jiti@2.7.0))(typescript@5.9.3)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      '@types/web':
+        specifier: 0.0.166
+        version: 0.0.166
+      eslint:
+        specifier: 9.19.0
+        version: 9.19.0(jiti@2.7.0)
+      prettier:
+        specifier: 3.8.1
+        version: 3.8.1
+      typescript:
+        specifier: 5.9.3
+        version: 5.9.3
+
+  projects/opus-4-8/youtube-lower-thirds--base:
+    dependencies:
+      '@remotion/cli':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/tailwind-v4':
+        specifier: 4.0.475
+        version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
+      '@remotion/zod-types':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      react-dom:
+        specifier: 19.2.3
+        version: 19.2.3(react@19.2.3)
+      remotion:
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      tailwindcss:
+        specifier: 4.0.0
+        version: 4.0.0
+      zod:
+        specifier: 4.3.6
+        version: 4.3.6
+    devDependencies:
+      '@remotion/eslint-config-flat':
+        specifier: 4.0.475
+        version: 4.0.475(eslint@9.19.0(jiti@2.7.0))(typescript@5.9.3)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      '@types/web':
+        specifier: 0.0.166
+        version: 0.0.166
+      eslint:
+        specifier: 9.19.0
+        version: 9.19.0(jiti@2.7.0)
+      prettier:
+        specifier: 3.8.1
+        version: 3.8.1
+      typescript:
+        specifier: 5.9.3
+        version: 5.9.3
+
+  projects/opus-4-8/youtube-lower-thirds--with-skills:
+    dependencies:
+      '@remotion/cli':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/google-fonts':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      '@remotion/tailwind-v4':
+        specifier: 4.0.475
+        version: 4.0.475(@remotion/bundler@4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(@rspack/core@1.7.11)(webpack@5.105.0(esbuild@0.28.0))
+      '@remotion/transitions':
+        specifier: 4.0.475
+        version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@remotion/zod-types':
         specifier: 4.0.475
         version: 4.0.475(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(zod@4.3.6)
